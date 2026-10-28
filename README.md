@@ -1,6 +1,6 @@
 # Hi, I'm Karabo 👋
 
-Final-year BSc Computer Science Honours student at Wits, specialising in Big Data Analytics,
+I am a BSc Computer Science Honours student at Wits, specialising in Big Data Analytics,
 and QA Engineer at Amicis Innovations, a student-run web development startup.
 
 ## About Me
